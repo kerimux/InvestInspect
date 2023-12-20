@@ -4,4 +4,4 @@ This application allows users to input their stock information, including Symbol
 Invest Inspect gives an output of Portfolio Values, Daily and Cumulative returns, annual returns, 
 
 #Rough Draft
-#dani
+#dani2
