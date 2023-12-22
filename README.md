@@ -1,4 +1,0 @@
-### InvestInspect
-
-
-# An new and easy way for you to track your investments. This easy to use and simple application allows the user to input their currently owned stocks and shares. Which helps keep track of their portfolio, while adding a couple fancy features along the way. As stated not only can users track their stocks and currents values, but we have also added features to analize thier stocks. We included some historical information going back 5 years to detect any trends or to asses any potential volitlity. Users will have the ability to evalute their holdings and correlating the risk. We have allowed the ability to run a Monte Carlo simulation to run on the users portfolio to give possible outcomes on where their investments could go in the future.   
