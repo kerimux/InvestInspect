@@ -12,21 +12,21 @@ The information below illustrates a deep finanical analysis that will output sto
 ## Calculating  Portfolio Allocation 
 Visualize your portfolio composition with a pie chart that shows the weights and values of each stock you hold.
 
-![Pie_chart](portfolio_allocation.png)
+![Pie_chart](gui_images/portfolio_allocation.png)
 
 
 
 ## Daily and Cumulative Returns vs Market Benchmark
 Helps you track the Daily and Cumulative return values on a daily basis and compare it with the  market benchmark. 
 
-![Daily_returns](image.png)
+![Daily_returns](gui_images/image.png)
 
 
 ## Combined Returns for Portfolio vs Market Benchmark 
 The combined return involves considering the various components that contribute to the overall performance of on investment. 
 
-![Portfolio_combined_returns](portfolio_returns.png)
-![Sp500_combined_returns](sp500_returns.png)
+![Portfolio_combined_returns](gui_images/portfolio_returns.png)
+![Sp500_combined_returns](gui_images/sp500_returns.png)
 
 
 
@@ -34,17 +34,17 @@ The combined return involves considering the various components that contribute 
 Cumulative returns, annual returns, and excess annual returns help you measure the long-term performance of your portfolio and the compound effect of your daily returns. This can help you assess the growth potential of your portfolio and the impact of your investment decisions over time.
 
 
-![Risk_free_returns](annualized_returns.png)
+![Risk_free_returns](gui_images/annualized_returns.png)
 
 ## Annualized Returns of Assets above the Risk Free rate 
 
 
-![Risk_free_above](annualized_returns_above_risk.png)
+![Risk_free_above](gui_images/annualized_returns_above_risk.png)
 
 
 ## Expected Annual Returns vs Expected Annual Risks 
 This analysis aims to identify the optimal portfolio that maximizes the Sharpe ratio, illustrating the delicate balance between potential returns and associated risks.
-![Annual_vs_expected](portfolio_risk_return.png)
+![Annual_vs_expected](gui_images/portfolio_risk_return.png)
 
 
 ##  Standard deviation over 21 days 
