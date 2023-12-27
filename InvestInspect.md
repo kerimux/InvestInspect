@@ -19,7 +19,7 @@ Visualize your portfolio composition with a pie chart that shows the weights and
 ## Daily and Cumulative Returns vs Market Benchmark
 Helps you track the Daily and Cumulative return values on a daily basis and compare it with the  market benchmark. 
 
-![Daily_returns](gui_images/image.png)
+![Daily_returns](gui_images/cumulative_returns.png)
 
 
 ## Combined Returns for Portfolio vs Market Benchmark 
@@ -50,11 +50,11 @@ This analysis aims to identify the optimal portfolio that maximizes the Sharpe r
 ##  Standard deviation over 21 days 
 Standard deviation of the portfolio helps you quantify the risk or uncertainty of your portfolio returns. This can help you understand the trade-off between risk and return and adjust your portfolio allocation accordingly.
 
-![std](standard_deviation.png)
+![std](gui_images/standard_deviation.png)
 
 ## Excess Rolling Standard Deviation over 21 days 
 Rolling standard deviation for 21 days helps you monitor the changing risk of your portfolio over time and capture the fluctuations in the market conditions. This can help you anticipate the volatility of your portfolio returns and manage your risk exposure.
-![excess_std](excess_return.png)
+![excess_std](gui_images/excess_return.png)
 
 ## Sharpe Ratios
 Sharpe ratio helps you evaluate the efficiency of your portfolio and the quality of your returns. This can help you optimize your portfolio by maximizing the return per unit of risk and choosing the best combination of assets.
@@ -63,6 +63,6 @@ Sharpe ratio helps you evaluate the efficiency of your portfolio and the quality
 ##  Correlation Matrix for Portfolio and Market Benchmark 
 Correlation matrix helps you understand the diversification benefits of your portfolio and the interdependence of your assets. This can help you reduce the overall risk of your portfolio by selecting assets that have low or negative correlation with each other.
 
-![matrix](correlation_matrix.png)
+![matrix](gui_images/correlation_matrix.png)
 
 ## Monte Carlo Simulation 
