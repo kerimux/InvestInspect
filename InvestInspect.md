@@ -68,6 +68,12 @@ Monte Carlo simulation is a tool used to see how your investment will perform in
 ![Monte_Carlo_Simulation](gui_images/Monte_Carlo_10_year.png)
 ![Monte_Carlo_Distribution](gui_images/Monte_Carlo_10year_dist_plot.png)
 
+References:
+[Tkinter](https://www.youtube.com/watch?v=0tM-l_ZsxjUz)
+[Tkinter](https://www.youtube.com/watch?v=5qOnzF7RsNA)
+[Yfinance library](https://www.youtube.com/watch?v=7wAQCwdvqqo)
+[stackoverflow](https://stackoverflow.com)
+[pandas](https://pandas.pydata.org/docs/user_guide/basics.html)
 
 
 ## Created by Kerim M. , Jahum M. , Daniela C. , Emmanuel N. 
